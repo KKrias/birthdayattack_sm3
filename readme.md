@@ -10,5 +10,5 @@
 ### 对另一种信息表示作hash并在列表里搜索
 ![img_1.png](img_1.png)
 ## 实验结果
- 32bit碰撞:
+ ### 32bit碰撞:
 ![img_2.png](img_2.png)
